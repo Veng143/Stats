@@ -1,0 +1,1 @@
+L’équation de la droite de régression : y = -3.7367 + 0.0151 x
